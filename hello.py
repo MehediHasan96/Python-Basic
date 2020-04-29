@@ -6,5 +6,7 @@ hello()
 
 def practice():
     print("Practice More and More")
-practice()    
+practice()
+
+print("hi")
     
